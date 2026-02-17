@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Two Six",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-17T07:46:31.001069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El Two Six",
+      "artist": "El Makabelico",
+      "has_synced": true,
+      "path": "select/01_El_Two_Six_El_Makabelico.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Two Six",
+      "artist": "El Makabelico",
+      "has_synced": true,
+      "path": "select/02_Two_Six_El_Makabelico.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Two Six Packs Away",
+      "artist": "Dave Dudley",
+      "has_synced": true,
+      "path": "select/03_Two_Six_Packs_Away_Dave_Dudley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Entr'Acte - Act Two - Six Months Later - Live At The Royal Albert Hall/2011",
+      "artist": "Andrew Lloyd Webber",
+      "has_synced": true,
+      "path": "select/04_Entr'Acte_-_Act_Two_-_Six_Months_Later_-_Live_At_The_Royal_Albert_Hall_2011_Andrew_Lloyd_Webber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EL TWO SIX",
+      "artist": "El Makabelico",
+      "has_synced": false,
+      "path": "select/05_EL_TWO_SIX_El_Makabelico.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "EL TWO SIX",
+      "artist": "El Makabelico",
+      "has_synced": true,
+      "path": "select/06_EL_TWO_SIX_El_Makabelico.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Two Six",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Two_Six_J.Cole.txt"
+    }
+  ]
+}
